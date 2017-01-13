@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="178119309023448"
+    token="-359532224675651378"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="205" />
+    <task
+        name="instant-run-dex"
+        duration="25" />
+    <task
+        name="instant-run-transform"
+        duration="63" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="C:\Users\tonmo\Desktop\onirban\ListApp\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="177341343754945"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\tonmo\Desktop\onirban\ListApp\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="178119309023448"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\tonmo\Desktop\onirban\ListApp\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

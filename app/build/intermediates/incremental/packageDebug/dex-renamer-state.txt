@@ -1,0 +1,7 @@
+#Fri Jan 13 18:53:36 BDT 2017
+base.0=C\:\\Users\\tonmo\\Desktop\\onirban\\ListApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_968c098eed6396a0da98bf9462fa80cbfbb82936
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\tonmo\\Desktop\\onirban\\ListApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5820c30fcba24d4c7b8c526e419f03629aa7b6a6\\classes.dex
+base.1=C\:\\Users\\tonmo\\Desktop\\onirban\\ListApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5820c30fcba24d4c7b8c526e419f03629aa7b6a6
+file.0=C\:\\Users\\tonmo\\Desktop\\onirban\\ListApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_968c098eed6396a0da98bf9462fa80cbfbb82936\\classes.dex
